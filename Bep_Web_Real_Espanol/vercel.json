@@ -1,6 +1,6 @@
 {
   "public": true,
   "rewrites": [
-    { "source": "/", "destination": "/public/login.html" }
+    { "source": "/", "destination": "/index.html" }
   ]
 }
